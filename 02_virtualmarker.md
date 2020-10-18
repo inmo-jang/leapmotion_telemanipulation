@@ -1,4 +1,4 @@
-# Virtual Marker based Teleoperation
+# Virtual Kinesthetic Teaching for Bimanual Telemanipulation
 
 This repo is for the demo: https://youtu.be/qV9ol3f4JtY
 
